@@ -39,7 +39,7 @@
 
 * 🤖 **Artificial Intelligence**
 * ☕ **Java**
-* 📊 **Data Analysis & Visualization**
+* 💻 **C++
 * 🧩 **Problem Solving**
 * 📚 **Data Structures & Algorithms**
 
