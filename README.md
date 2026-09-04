@@ -31,7 +31,7 @@
 
 ## 🛠️ Languages & Tools
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,java,,git,github,vscode" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,java,,git,github,vscode,arduino" /> </p>
 
 ---
 
