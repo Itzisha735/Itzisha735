@@ -21,8 +21,6 @@
 ## 🤖 What I'm Interested In
 
 * 🧠 Artificial Intelligence
-* 🤖 Machine Learning
-* 📊 Data & Data Analysis
 * 🐍 Python Programming
 * 🧩 Problem Solving
 * 📚 Data Structures & Algorithms
