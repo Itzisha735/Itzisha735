@@ -42,25 +42,50 @@
 * 💻 **C++
 * 🧩 **Problem Solving**
 * 📚 **Data Structures & Algorithms**
+----
 
+## 🚀 Featured Projects
 
-## 🚀 My AI Journey
+Here are some of the projects I've worked on while learning and exploring different areas of technology.
 
-```text
-🎓 B.Tech CSE
-      ↓
-🐍 Learn Python & Programming
-      ↓
-🧠 Strengthen Problem Solving
-      ↓
-📊 Learn Data & Mathematics
-      ↓
-🤖 Explore Machine Learning
-      ↓
-🧠 Explore Artificial Intelligence
-      ↓
-🚀 Build AI Projects
-```
+### ☕ Programming in Java
+
+📚 **SEM III Java Practicals**
+
+A collection of Java practical programs created as part of my III Semester coursework.
+
+**Tech:** `Java`
+
+🔗 [View Repository](https://github.com/Itzisha735/Programming-in-java)
+
+---
+
+### 🔐 Arduino-Based Smart Door Lock
+
+An Arduino Uno-based smart door lock system using **RFID authentication and keypad password verification**. It includes an LCD display for system status and a servo motor for controlling the door lock.
+
+**Tech:** `Arduino` `C++` `RFID` `Keypad`
+
+🔗 [View Repository](https://github.com/Itzisha735/Arduino-Based-Smart-Door-Lock)
+
+---
+
+### 🤖 AI Risk Manager
+
+An **AI-powered payment transaction risk assessment system** designed to assess potential risks in payment transactions.
+
+**Tech:** `Python` `AI` `Machine Learning`
+
+🔗 [View Repository](https://github.com/Itzisha735/AI-Risk-Manager)
+
+---
+
+### 🌱 More Projects Coming Soon...
+
+I'm continuously learning, experimenting, and building new projects.
+
+**Learn → Build → Experiment → Improve 🚀**
+
 
 ---
 
