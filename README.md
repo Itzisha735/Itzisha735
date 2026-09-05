@@ -21,7 +21,6 @@
 ## 🤖 What I'm Interested In
 
 * 🧠 Artificial Intelligence
-* 🐍 Python Programming
 * 🧩 Problem Solving
 * 📚 Data Structures & Algorithms
 * 🔬 Exploring Generative AI
@@ -29,11 +28,13 @@
 
 ---
 
-## 🛠️ Languages & Tools
+🛠️ Languages & Tools
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,java,,git,github,vscode,arduino" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,java,github,vscode,arduino" /> </p>
 
----
+🔧 Design & Engineering
+
+<p align="center"> <img src="https://img.shields.io/badge/Fusion%20360-FF6B00?style=for-the-badge&logo=autodesk&logoColor=white" /> </p>
 
 ## 🌱 Currently Learning
 
@@ -89,7 +90,7 @@ I'm continuously learning, experimenting, and building new projects.
 
 ---
 
-## 🎯 My Goals
+## 🎯 2026 Goals
 
 * 🤖 Learn Artificial Intelligence
 * 📊 Learn how to work with data
@@ -134,9 +135,11 @@ I'm continuously learning, experimenting, and building new projects.
 
 ---
 
-## 💭 My Mindset
+## ⚡ Beyond the Code
 
-> 🤖 **"Learn AI. Solve Problems. Build the Future."**
+ 🏋️ Workout — Discipline & consistency
+🏃 Running — Clear mind, stronger body
+ 🎮 Gaming — Strategy & fun
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
 
