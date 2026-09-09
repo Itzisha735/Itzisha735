@@ -40,7 +40,7 @@
 
 * 🤖 **Artificial Intelligence**
 * ☕ **Java**
-* 💻 **C++
+* 💻 **C++**
 * 🧩 **Problem Solving**
 * 📚 **Data Structures & Algorithms**
 ----
@@ -103,14 +103,6 @@ I'm continuously learning, experimenting, and building new projects.
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Itzisha735&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🐍 Contribution Graph
 
 <p align="center">
@@ -147,4 +139,3 @@ I'm continuously learning, experimenting, and building new projects.
 
 ### ⭐ Thanks for visiting my profile!
 
-### 🧠 Learn • 🤖 Explore AI • 💻 Code • 🚀 Build • 🌱 Grow
