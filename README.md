@@ -45,19 +45,9 @@
 * 📚 **Data Structures & Algorithms**
 ----
 
-## 🚀 Featured Projects
+## 🚀  Featured Repository
 
-Here are some of the projects I've worked on while learning and exploring different areas of technology.
-
-### ☕ Programming in Java
-
-📚 **SEM III Java Practicals**
-
-A collection of Java practical programs created as part of my III Semester coursework.
-
-**Tech:** `Java`
-
-🔗 [View Repository](https://github.com/Itzisha735/Programming-in-java)
+Here are some of the Repository I've worked on while learning and exploring different areas of technology.
 
 ---
 
